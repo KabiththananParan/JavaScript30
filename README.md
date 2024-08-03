@@ -1,6 +1,6 @@
 #30 Day Projects Challenge
 
-30 JavaScript projects
+⇝ 30 JavaScript projects
 
 
 1. JavaScript Drum Kit
